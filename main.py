@@ -3,7 +3,7 @@ import time
 from aisles import Aisle
 from tkinter import *
 from pandas import *
-from PublixSalemap.labeling import location_ids, secondary_labels_1_9, aisle_labels
+from labeling import location_ids, secondary_labels_1_9, aisle_labels
 
 ON = True
 # ---------------------------- PANDA DATA SETUP ------------------------------ #
@@ -15,7 +15,7 @@ screen = Screen()
 screen.setup(width=1320, height=1020)
 screen.title("Aisles 1-9 Publix Salesmap") # creates name on the top of the window
 screen.tracer(0)
-
+screen.addshape(2)
 aisle = Aisle(0, 382.5)
 Aisle(x=0, y=282.5)
 Aisle(x=0, y=182.5)

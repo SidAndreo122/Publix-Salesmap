@@ -3,7 +3,7 @@ import time
 from aisles import Aisle
 from tkinter import *
 from pandas import *
-from PublixSalemap.labeling import location_ids2, secondary_labels_10_16, aisle_labels
+from labeling import location_ids2, secondary_labels_10_16, aisle_labels
 
 ON = True
 # ---------------------------- PANDA DATA SETUP ------------------------------ #
