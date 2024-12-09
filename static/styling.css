@@ -1,0 +1,122 @@
+#endcap-title {
+    text-align: center;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-bottom: 20px;
+}
+
+#section {
+    text-align: center;
+    font-weight: normal;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-bottom: 20px;
+}
+
+/* Basic resets for margin and padding */
+body, h1, h2, h3, ul {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box; /* Include padding and border in element's total width and height
+*/
+}
+
+#left, #right {
+    width: 45%;
+    padding: 20px;
+    background-color: white;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    margin-bottom: 100px;
+}
+
+#left {
+    float: left;
+}
+
+#right {
+    float: right;
+}
+
+h2 {
+    margin-top: 0;
+    color: #333;
+    font-size: 20px;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    padding: 8px 0;
+    font-size: 16px;
+    color: #555;
+    position: relative;
+    padding-left: 20px; /* Moves text to the right */
+}
+
+li::before {
+    content: "• ";
+    color: #333;
+    font-weight: bold;
+    position: absolute;
+    left: 0; /* Positions bullet */
+    padding-left: 10px; /* Adjust the spacing of bullet */
+}
+
+
+hr {
+    margin: 30px 0;
+    border: 0;
+    height: 2px;
+    background: #ccc;
+}
+.title {
+    padding: 10px;
+}
+.product-item {
+    display: flex;
+    justify-content: space-between;
+    padding-right: 20px; /* Optional */
+    list-style: none;
+}
+
+.product-name {
+    flex: 1;
+}
+
+.secondary-info {
+    flex: 0;
+    margin-left: 10px;
+    white-space: nowrap;
+}
+
+.next {
+    opacity: 0;
+}
+
+/* #product {
+    padding-right: 80px;
+}
+#secondary {
+    margin-left: 80px; 
+    font-size: 12;
+} */
+
+/* @media print {
+    div {
+        page-break-before: always;
+    }
+    #left, #right {
+        float: none;
+        width: 100%;
+    }
+}
+
+h1#new-page-title {
+    text-align: center;
+    margin-top: 50px; 
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+} */
+
