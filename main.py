@@ -15,7 +15,7 @@ screen = Screen()
 screen.setup(width=1320, height=1020)
 screen.title("Aisles 1-9 Publix Salesmap") # creates name on the top of the window
 screen.tracer(0)
-screen.addshape(2)
+
 aisle = Aisle(0, 382.5)
 Aisle(x=0, y=282.5)
 Aisle(x=0, y=182.5)
