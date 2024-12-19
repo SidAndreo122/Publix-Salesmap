@@ -4,7 +4,7 @@ from openpyxl.workbook import Workbook
 from openpyxl import load_workbook
 data = pandas.read_csv("exceldata/testing_publix_salesv2.csv")
 
-wb = load_workbook('actual_sales_list3.xlsx')
+wb = load_workbook('actual_sales_list4.xlsx')
 ws = wb.active
 
 # if ws['D3'] == "A1FE":

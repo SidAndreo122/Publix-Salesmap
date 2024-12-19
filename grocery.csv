@@ -1,254 +1,152 @@
-Product Name,Aisle,Secondary
-Sugar Bee Apple Juice,1,x
-Tim Hortons K-Cup Coffee,2,A16BE
-Krusteaz Pancake Mix,2,x
-Cascadian Farm Organic Cereal,2,A1BE
-Post Honey Bunches of Oats Cereal,2,A2FE
-Quaker Oats,2,A4FE
-Kellogg's Pop-Tarts Toaster Pastries,2,A2FE / 16BE
-Celestial Seasonings Tea Bags,2,A1FE
-Folgers or Café Bustelo K-Cup Coffee,2,x
-General Mills Cheerios Cereal,2,A1FE
-Nature Valley Bars or Breakfast Biscuits,2,A1FE
-New England Single Serve Coffee,2,A1BE
-Nesquick,2,16BE
-Publix Syrup,2,x
-Quaker Cap'N Crunch Cereal,2,A1BE
-Community Coffee,2,A2FE
-Trü Frü Nature's Fruit,3,x
-Hershey's Nuggets Chocolates,3,x
-Sour Patch Kids Soft & Chewy Candy,3,x
-Sanders Milk Chocolate Sea Salt Caramels,3,x
-Jelly Belly Jelly Beans,3,A4FE
-Bachan's Japanese Barbecue Sauce,3,A4FE
-Ferrero Rocher Chocolate,3,x
-Dove Promises Chocolate,3,x
-Russell Stover Chocolates,3,x
-College Inn Broth,3,x
-Ghirardelli Chocolate Squares,3,x
-Knorr Bouillon Cubes,3,x
-Lindt Lindor Chocolate Truffles,3,x
-Lipton Recipe Secrets,3,x
-Cheez-It Baked Snack Crackers,4,A42D-2
-Sheila G's Brownie Brittle,4,A4FE
-Nabisco Ritz Toasted Chips,4,A3FE
-Nonni's Biscotti,4,A42D-2
-Kraft Dressing,5,Lobby
-Duke's Mayonnaise,5,A52D-1
-Publix Chocolate Morsels,5,x
-Hidden Valley Salad Dressing & Recipe Mix,5,A4FE
-Wickles Pickles,5,A4FE
-Mike's Hot Honey,5,x
-Pillsbury Brownie Mix,5,A52D-1
-Publix Croutons,5,Lobby
-Spice Islands Spices,5,x
-GreenWise Organic Pasta Sauce,6,x
-Classico Sauce,6,x
-Botticelli Premium Pasta Sauce,6,x
-Ben's Original Ready Rice,6,Lobby
-Bush's Best Chili Beans,6,Lobby
-Ronzoni Pasta,6,x
-Rotel Tomatoes,6,x
-Royal Ready To Heat Rice,6,x
-Purina Tidy Cats Cat Litter,7,A72D-2
-Frisk Partymix,7,A72D-1
-Good 'n' Fun Gourmet Dog Treats,7,x
-Purina Busy Bone Chew Dog Treats,7,x
-Rachael Ray Nutrish Dry Food for Cats,7,A72D-1
-Pup-Peroni,7,A72D-1
-Temptations Cat Treats,7,A72D-2
-Bubly Sparkling Water,8,A3BE
-Icelandic Glacial Natural Spring Water,8,
-12-Pack Coca-Cola Products,8,A5BE
-Zephyrhills Spring Water,8,A9BE
-Coca-Cola Products,8,A5FE
-Snapple Tea,8,A4BE
-Glacéau Vitaminwater,8,A9FE
-6-Pack 7UP Products,8,A6BE
-Clearly Canadian Original or Zero,8,x
-6-Pack Coca-Cola Soft Drink Products,8,x
-8-Pack Coca-Cola Soft Drinks,8,x
-Hint Water Infused With Essence,8,x
-Lemon Perfect Hydrating Water,8,x
-Pepsi Products,8,A6FE
-6-Pack Pepsi Products,8,A3BE
-Publix Spring Water,8,A9BE
-Publix Alkaline Water,8,x
-Smartwater,8,x
-Bodyarmor Sports Drink,9,A9FE
-Planters Dry Roasted Peanuts,9,A12BE
-Blue Diamond Almonds,9,A5FE
-Quaker Rice Crisps,9,A6FE
-Powerade,9,A7BE
-Angie's Boom Chicka Pop Popcorn,9,A12BE
-Cookie Pop Popcorn,9,A4FE
-Chex Mix Snack,9,A3BE
-Green Giant Frozen Vegetables,10,3Door
-Healthy Choice Café Steamers Entrées,10,x
-Seapak Shrimp & Seafood Co. Shrimp,10,3Door
-Birds Eye Voila! Skillet Meals,10,3Door
-Gorton's Shrimp,10,x
-Healthy Choice or Marie Callender's Meal or Dinner,10,x
-Rao's Family Size Entrée,10,x
-Saffron Road Entrees,10,x
-Halo Top Ice Cream,11,x
-Mayfield Ice Cream,11,3Door
-Screamin' Sicilian Pizza Co. Pizza,11,3Door
-GreenWise Puff Pastry Sheets,11,x
-Bubbies Mochi Ice Cream,11,x
-Lactaid Ice Cream,11,x
-Howdy Homemade Ice Cream,11,x
-Red Lobster Biscuits,11,x
-Pillsbury Toaster Strudel Pastries,11,x
-Red's Breakfast Sandwich,11,x
-Totino's Pizza Rolls,11,x
-Van's Waffles,11,x
-1000 Stories Cabernet Sauvignon Wine,12,A122D
-Art of the Cooper Cabernet Sauvignon Wine,12,A122D
-Decoy Cabernet Sauvignon Wine,12,x
-12-Pack Dos Equis Lager Especial,12,x
-Francis Coppola Diamond Collection Wine,12,x
-12-Pack Heineken Lager,12,x
-J. Lohr Seven Oaks Cabernet Sauvignon Wine,12,x
-Josh Cellars Cabernet Sauvignon Wine,12,x
-La Crema Monterey Pinot Noir Wine,12,x
-Mionetto Prosecco Brut Wine,12,x
-12-Pack Modelo Especial or Corona Extra Beer,12,x
-4-Pack New Holland Dragon's Milk Beer,12,x
-12-Pack The Beast Unleashed Malt Beverage,12,A12FE
-Jaume Serra Cristalino Sparkling Brut Wine,12,x
-Oyster Bay Sauvignon Blanc Wine,12,x
-12-Pack Peroni Nastro Azzurro Beer,12,x
-Robert Mondavi Private Selection Wine,12,x
-12-Pack Samuel Adams Beer,12,x
-Sonoma-Cutrer Sonoma Coast Chardonnay Wine,12,x
-Whitehaven Marlborough Sauvignon Blanc Wine,12,x
-12-Pack Yuengling Flight Beer,12,x
-Arm & Hammer Laundry Detergent,13,A13FE
-"Tide, Tide Pods, or Gain Flings! Detergent",13,A132D-2
-Clorox Cleaners,13,x
-Mr. Clean Clean Freak Multi-Purpose Cleaner,13,x
-Candle-lite Scented Candle,13,x
-Arm & Hammer Scent or Freshness Booster or Fabric Softener or Dryer Sheets,13,A13FE
-Brillo Scrub Max Sponge,13,x
-Clorox Toilet Bowl Cleaner or Cleaning Gel,13,x
-Lemi Shine Dishwashing Detergent,13,x
-Publix Fabric Softener Sheets,13,x
-GreenWise Bleach,13,x
-Tide Washing Machine Cleaner,13,x
-Bounty Paper Towels,14,A15FE
-Quilted Northern Bathroom Tissue,14,A14FE
-Chinet Crystal Plastic Plates,14,A4FE
-Angel Soft Bathroom Tissue,14,A4FE
-Dixie Soak Proof Shield Plates or Bowls,14,A15FE
-Puffs Facial Tissue,14,x
-Reynolds Wrap Aluminum Foil,14,x
-Ziploc Bags,14,A15FE
-Arnold Bread,16,x
-Stonewall Kitchen Jam,16,x
-Thomas' Bagels,16,x
-GreenWise Organic Preserves,16,x
-Wonder Classic White Bread,16,A2FE
-St. Dalfour Fruit Spread,16,A4FE
-Second Nature Trail Mix,16,x
-Arizona Fruit Snacks,16,Lobby
-Dave's Killer Bread Organic Burger Buns,16,x
-Little Debbie Cakes,16,x
-Cabot Greek Yogurt,17,A16BE
-Chobani Zero Sugar Yogurt,17,A16BE
-Bizzy Cold Brew,17,A16BE
-GreenWise Organic Ricotta Cheese,17,x
-Oikos Triple Zero Blended Greek Yogurt,17,A16BE
-Amish Country Roll Butter,17,x
-Country Crock Spread,17,x
-Mooala Organic Banana-Milk,17,x
-"Noosa Finest Yoghurt, Single Serve",17,x
-Any 2 Oikos Pro Yogurt,17,x
-Clio Greek Yogurt Bar,17,x
-Natural Bliss Coffee Creamer,17,x
-Planet Oat Oatmilk 52-oz or Planet Oat Creamer 32-oz,17,x
-Publix French Onion Sour Cream Dip,17,x
-GreenWise Organic Sour Cream,17,x
-Smart Balance Buttery Spread,17,x
-Sweet Loren's Cookie Dough,17,x
-Vital Farms Butter,17,x
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-Publix Stretch 'N Hold Tall Kitchen Bags,,
+Product Name
+Dunkin' Iced Coffee
+Polly-O Ricotta Cheese
+Mt. Olive Pickles
+Pam Cooking Spray
+Hellmann's Mayonnaise
+Del Monte Vegetables
+Swanson Broth
+Campbell's Cream Soup
+Fisher Chef's Naturals Baking Nuts
+Folgers Ground Coffee
+Rao's Slow Simmered Soup
+Rao's Homemade Sauce
+General Mills Cheerios Cereal
+Rao's Homemade Pasta
+Starbucks Coffee
+Emerald Nuts
+12-Pack 7UP Products
+Lacroix Sparkling Water
+12-Pack Coca-Cola Products
+Zephyrhills Natural Spring Water
+Tate's Bake Shop Cookies
+Kellogg's Town House or Club Crackers
+On The Border Tortilla Chips
+6-Pack Pepsi Products
+Lay's Potato Chips
+Kedem Tea Biscuits
+Manischewitz Potato Pancake Mix
+Hershey's Chocolates Share Pack Bags
+Lindt Lindor Chocolate Truffles
+Gold's Horseradish
+Rokeach Chanuka Candles
+Natural Delights Mini Medjools
+Manischewitz Egg Noodles
+Manischewitz Chocolate Coins
+Russell Stover Chocolates
+Kedem Grape Juice
+Streit's Toasted Pasta
+Sour Patch Kids Gummies
+Hero Snack-Sized Gala Apples
+Ferrero Rocher Fine Hazelnut Chocolates
+Jet-Puffed Mini Marshmallows
+6-Pack 7UP Products
+Arizona Tea
+Arm & Hammer Pure Baking Soda
+Bahlsen Cookies or Wafers
+Bai Antioxidant Beverage
+"When You Spend $10 on Baker's, Jet-Puffed, Cool Whip or Jell-O Participating Products"
+Bertolli Olive Oil
+Betty Crocker Brownie Mix
+Betty Crocker Fruit Snacks
+Bonne Maman Preserves or Curd
+Botticelli Premium Pasta Sauce
+Bubly Burst
+"Buitoni Tortellini Pasta: Mixed Cheese, Sweet Italian Sausage, or Cheese; or Cheese Ravioli"
+Cape Cod Kettle Cooked Potato Chips
+Carnation Evaporated Milk
+Cheez-It Baked Snack Crackers
+Any 2 Cheez-It Crackers
+Any 2 Chex Cereal
+Chex Mix Snack
+"When You Spend $20 on Classico, Ore-Ida, Oscar Mayer or Philadelphia Participating Products"
+Coca-Cola Products
+Community Coffee
+Crisco Oil
+Dasani
+Dave's Killer Bread Organic Breakfast Bagels
+"Delallo Giardiniera 25.5-oz, Jalapeno Garlic Stuffed Olives 5.8-oz or Basil Pesto 6.35-oz"
+Dixie Crystals Sugar
+Dole Energy Delight or Digestive Bliss Juice
+Dunkin' Iced Coffee
+Eagle Brand Sweetened Condensed Milk
+Evian Natural Spring Water
+4-Pack Fever-Tree Products
+"Flora Italian Toast 11.05-oz, Bruschette Mini Toasts 5.3-oz or Taralli Snack Crackers 8.8-oz"
+"Flora Sweet Crunchy Spreads 7.75-oz, Pesto Genovese 10-oz, Sun-Dried Tomatoes 10.22-oz"
+"Flora Italian Tomatoes 28-oz, Organic Gnocchi 16-oz or Roasted Peppers 12-oz"
+"Flora Organic Italian Strained Tomatoes 24-oz, Organic Gluten Free Gnocchi 16-oz"
+Flora Grissini Breadsticks
+"Flora San Marzano Tomatoes 28-oz, Homestyle Pastas 16.02-oz or Organic Pizza Sauce 13-oz"
+Frito Lay Party Size Snacks
+Frito Lay Canisters
+"From The Ground Up, You Need This or Popchips"
+Garden of Eatin' Chips
+Ghirardelli Chocolate Squares
+Golden Blossom Honey
+Heinz Tomato Ketchup
+Any 1 Hellmann's
+Idahoan Mashed Potatoes
+Imagine Soup or Broth
+Jolly Time Popcorn
+Kellogg's Pop-Tarts Toaster Pastries
+Kellogg's Frosted Flakes or Krispies Cereal
+Kinder Joy Egg
+King's Hawaiian Rolls
+Kitchen Basics Stock
+Knorr Recipe Mix
+Knorr Falafel Mix
+Kraft Velveeta Shells & Cheese Dinner
+Kraft Stove Top Stuffing Mix
+Kraft Mac & Cheese or Velveeta Shells & Cheese Cups
+Lindsay Olives
+Mahatma Rice
+Manischewitz Soup Mix
+Martinelli's Sparkling Juice
+Mateo's Gourmet Salsa
+Mezzetta Olives
+Mid's Sauce
+Mott's Pouches
+Mrs. Butterworth's or Log Cabin Syrup
+Nabisco Family Size Cookies or Gluten Free Oreos
+Nabisco Wheat Thins or Triscuit Crackers
+Nature Valley Bars or Squares
+Nature's Own Perfectly Crafted Bread
+Nestlé Toll House Morsels
+Newman's Own Pasta Sauce
+Ocean Spray Juice Cocktail
+On The Border Mexican Grill & Cantina Salsa
+Orville Redenbacher's Gourmet Popcorn
+Matt & Steve's Marinated Vegetables
+Krinos Tahini
+Nongshim Shin Ramyun Gold or Black Broth
+Chick-fil-A Sauce
+H.K. Anderson Filled Pretzel Nuggets
+Kauai Coffee
+4505 Chicharrones
+Liquid Death Tea
+Peace Tea
+Pepperidge Farm Pirouette Cookies
+Pepperidge Farm Cookies
+Pepsi Products
+Peter Pan Peanut Butter
+Pillsbury Best or White Lily Flour
+Pop Secret Microwave Popcorn Family Size
+Post Honey Bunches of Oats Cereal
+Rao's Homemade Pesto
+Red Bull Energy Drink
+Ruffles Potato Chips
+SanPellegrino or Acqua Panna
+Sensible Portions Garden Veggie Straws
+Siete Potato Chips or Puffs
+Smartwater 700-mL or Gold Peak Tea 18.5-oz
+Snack Factory Pretzel Crisps
+Sparkling Ice +Caffeine
+Terra Chips 5–6.8-oz or Garden of Eatin' Taco Shells 12-ct.
+Thomas' Bagels
+Twinings of London Tea Bags
+Utz Party Size Chips 12.5–13-oz or Zapp's Pretzels 16-oz
+Any 1 Welch's Sparkling
+Welch's Sparkling Juice Cocktail
+Wise Potato Chips
+Wonder Classic White Bread
